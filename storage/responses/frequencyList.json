@@ -1,0 +1,38 @@
+[
+    {
+        "data": {
+            "type": "frequency",
+            "attributes": {
+                "id": 1,
+                "name": "Daily"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "frequency",
+            "attributes": {
+                "id": 2,
+                "name": "Weekly"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "frequency",
+            "attributes": {
+                "id": 3,
+                "name": "Monthly"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "frequency",
+            "attributes": {
+                "id": 4,
+                "name": "Yearly"
+            }
+        }
+    }
+]

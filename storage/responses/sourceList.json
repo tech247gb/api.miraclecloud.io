@@ -1,0 +1,29 @@
+[
+    {
+        "data": {
+            "type": "source",
+            "attributes": {
+                "id": 1,
+                "alertSourceName": "Business Unit"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "source",
+            "attributes": {
+                "id": 2,
+                "alertSourceName": "Account"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "source",
+            "attributes": {
+                "id": 3,
+                "alertSourceName": "Vendor"
+            }
+        }
+    }
+]

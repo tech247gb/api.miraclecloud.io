@@ -1,0 +1,56 @@
+[
+    {
+        "data": {
+            "type": "alertType",
+            "attributes": {
+                "id": 1,
+                "name": "Average Use"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "alertType",
+            "attributes": {
+                "id": 2,
+                "name": "Monthly Runrate"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "alertType",
+            "attributes": {
+                "id": 3,
+                "name": "Monthly Budget"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "alertType",
+            "attributes": {
+                "id": 4,
+                "name": "Budget Overrun"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "alertType",
+            "attributes": {
+                "id": 5,
+                "name": "New Account"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "alertType",
+            "attributes": {
+                "id": 6,
+                "name": "Resources Without Tag"
+            }
+        }
+    }
+]

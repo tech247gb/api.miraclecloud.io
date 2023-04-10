@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "data": {
+                "type": "service",
+                "id": 1,
+                "attributes": {
+                    "name": "SQL"
+                }
+            }
+        },
+        {
+            "data": {
+                "type": "service",
+                "id": 2,
+                "attributes": {
+                    "name": "Compute"
+                }
+            }
+        },
+        {
+            "data": {
+                "type": "service",
+                "id": 3,
+                "attributes": {
+                    "name": "Network"
+                }
+            }
+        },
+        {
+            "data": {
+                "type": "service",
+                "id": 4,
+                "attributes": {
+                    "name": "Security"
+                }
+            }
+        },
+        {
+            "data": {
+                "type": "service",
+                "id": 5,
+                "attributes": {
+                    "name": "Storage"
+                }
+            }
+        }
+    ]
+}

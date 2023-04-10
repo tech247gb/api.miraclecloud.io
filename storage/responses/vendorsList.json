@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "type": "vendor",
+            "id": 1,
+            "attributes": {
+                "vendorID": 1,
+                "vendorName": "Azure"
+            }
+        }
+    ]
+}

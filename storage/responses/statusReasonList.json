@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "data": {
+                "type": "statusReason",
+                "attributes": {
+                    "reasonId": 10,
+                    "reasonDescription": "New"
+                }
+            }
+        }
+    ]
+}

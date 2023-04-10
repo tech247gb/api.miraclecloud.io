@@ -1,0 +1,9 @@
+{
+    "data": {
+        "type": "error",
+        "attributes": {
+            "code": 4010,
+            "message": "Header not provided"
+        }
+    }
+}

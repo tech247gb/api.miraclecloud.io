@@ -1,0 +1,8 @@
+{
+    "data": {
+        "type": "sso",
+        "attributes": {
+            "url": "https://miracledev.bekey.io?confirm_sso=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJlQGJla2V5LmlvIiwiZXhwIjoxNTgxNjgxNTc2LCJ1Zm4iOiJVc2VyRnVsbE5hbWUiLCJjaWQiOjIsInNzbyI6dHJ1ZSwianRpIjoiNWU0NjZmODhjNzg4YSJ9.LIDJAJLHrp6dGzWXWSowY7buTRz4jFG63J5Eu41xnMY"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "type": "alertTypeDescription",
+            "attributes": {
+                "id": 1,
+                "alertTypeName": "Average Use",
+                "alertTypeDescription": "{X} spend amount is greater than or equal to {Y}% of  {X} average amount\n"
+            }
+        },
+        {
+            "type": "alertTypeDescription",
+            "attributes": {
+                "id": 2,
+                "alertTypeName": "Monthly Runrate",
+                "alertTypeDescription": "Monthly spend amount is greater than or equal to {Y}% of Monthly Runrate amount within the first {X} days of the month"
+            }
+        },
+        {
+            "type": "alertTypeDescription",
+            "attributes": {
+                "id": 3,
+                "alertTypeName": "Monthly Budget",
+                "alertTypeDescription": "Monthly amount is greater than or equal to {Y}% of Monthly budget amount\n"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "links": {
+        "first": "http://miracle.local.com/clientreport?page=1&per_page=10",
+        "self": "http://miracle.local.com/clientreport?page=1&per_page=10",
+        "next": null,
+        "last": "http://miracle.local.com/clientreport?page=1&per_page=10"
+    },
+    "meta": {
+        "total": 6,
+        "per_page": 10,
+        "current_page": 1,
+        "total_pages": 1
+    },
+    "data": [
+        {
+            "type": "dashboard",
+            "id": 12,
+            "attributes": {
+                "monthNumber": 1,
+                "year": 2020,
+                "vendorID": 1,
+                "businessUnits": 12,
+                "currencyID": 1,
+                "budgetYTD": 18000,
+                "budgetAnnual": 108000,
+                "costYTD": 9710.5,
+                "costAnnual": 79664.5,
+                "costTrend": 0,
+                "gapYTD": 8289.5,
+                "gapAnnual": 28335.5,
+                "percentageYTD": 85.37,
+                "percentageAnnual": 35.57
+            }
+        },
+        {
+            "type": "dashboard",
+            "id": 16,
+            "attributes": {
+                "monthNumber": 1,
+                "year": 2020,
+                "vendorID": 1,
+                "businessUnits": 16,
+                "currencyID": 1,
+                "budgetYTD": 4000,
+                "budgetAnnual": 24000,
+                "costYTD": 2397.22,
+                "costAnnual": 20369.22,
+                "costTrend": 0,
+                "gapYTD": 1602.78,
+                "gapAnnual": 3630.78,
+                "percentageYTD": 66.86,
+                "percentageAnnual": 17.82
+            }
+        }
+    ]
+}

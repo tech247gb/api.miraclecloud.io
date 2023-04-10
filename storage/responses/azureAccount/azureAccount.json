@@ -1,0 +1,13 @@
+{
+    "data": {
+        "type": "azureAccount",
+        "id": 3,
+        "attributes": {
+            "clientId": 3,
+            "tenant": "4234232-c237-4234-9234-1234234234ef",
+            "clientIdKey": "d2342346-f234-234f-2347-234234234234",
+            "clientSecret": "_rT234234dDk_C234238_0234A9_t2342G",
+            "subscriptionId": "02342365-2334-234b-8733-532423423423"
+        }
+    }
+}

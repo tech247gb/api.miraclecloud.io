@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "data": {
+                "type": "vendor",
+                "id": 1,
+                "attributes": {
+                    "name": "Azure"
+                }
+            }
+        },
+        {
+            "data": {
+                "type": "vendor",
+                "id": 2,
+                "attributes": {
+                    "name": "AWS"
+                }
+            }
+        }
+    ]
+}

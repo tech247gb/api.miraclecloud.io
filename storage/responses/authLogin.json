@@ -1,0 +1,22 @@
+{
+    "data": {
+        "type": "user",
+        "id": 1,
+        "attributes": {
+            "UserID": 1,
+            "ClientID": 2,
+            "UserName": "UserFullName",
+            "UserEmail": "e@bekey.io",
+            "UserType": 2,
+            "UserStatus": 1,
+            "UserCreateDate": "2019-12-12 00:00:00",
+            "UserUpdateDate": "2019-12-12 00:00:00",
+            "lastExecutionStatus": "Error",
+            "token": {
+                "tokenType": "Bearer",
+                "expiresIn": 1581678779,
+                "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJlQGJla2V5LmlvIiwiZXhwIjoxNTgxNjc4Nzc5LCJjaWQiOjEsImF1ZCI6IjEyMzQ1NiIsImp0aSI6IjVlNDY2NDliNzI4NjgifQ.aGAhraKwUX_PrC45GjwEvdZcGFQPOtc7y10WdIpzJ10"
+            }
+        }
+    }
+}

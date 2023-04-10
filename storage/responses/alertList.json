@@ -1,0 +1,79 @@
+[
+    {
+        "data": {
+            "type": "alert",
+            "attributes": {
+                "id": 206,
+                "alertName": "Alert Test #01",
+                "alertTypeId": 2,
+                "alertTypeName": "Monthly Runrate",
+                "alertTypeDescription": "Monthly spend amount is greater than or equal to {Y}% of Monthly Runrate amount within the first {X} days of the month",
+                "alertSourceId": 2,
+                "alertSourceName": "Account",
+                "productId": 4,
+                "productName": "Storage",
+                "entityTypeId": 45,
+                "entityTypeName": null,
+                "entityName": null,
+                "tagKey": "test #01",
+                "tagValue": "test #01",
+                "comparisonTypeId": 1,
+                "comparisonName": "Monthly Average",
+                "percentageOfComparison": 45,
+                "withinMonth": 45,
+                "withinDay": 45,
+                "ownerID": 3,
+                "ownerName": "Danny@Miracle.com",
+                "ownerEmail": "Danny@Miracle.com",
+                "emailCC": [
+                    "test@mail.com",
+                    "test@mail.com"
+                ],
+                "condition": "{X} is greater than or equal to {Y} % of Monthly budget amount",
+                "creationDate": "2020-06-15 11:08:46",
+                "statusId": 1,
+                "statusName": "Active",
+                "entityId": null
+            }
+        }
+    },
+
+    {
+        "data": {
+            "type": "alert",
+            "attributes": {
+                "id": 207,
+                "alertName": "Alert Test #01",
+                "alertTypeId": 2,
+                "alertTypeName": "Monthly Runrate",
+                "alertTypeDescription": "Monthly spend amount is greater than or equal to {Y}% of Monthly Runrate amount within the first {X} days of the month",
+                "alertSourceId": 2,
+                "alertSourceName": "Account",
+                "productId": 4,
+                "productName": "Storage",
+                "entityTypeId": 45,
+                "entityTypeName": null,
+                "entityName": null,
+                "tagKey": "test #01",
+                "tagValue": "test #01",
+                "comparisonTypeId": 1,
+                "comparisonName": "Monthly Average",
+                "percentageOfComparison": 45,
+                "withinMonth": 45,
+                "withinDay": 45,
+                "ownerID": 3,
+                "ownerName": "Danny@Miracle.com",
+                "ownerEmail": "Danny@Miracle.com",
+                "emailCC": [
+                    "test@mail.com",
+                    "test@mail.com"
+                ],
+                "condition": "{X} is greater than or equal to {Y} % of Monthly budget amount",
+                "creationDate": "2020-06-15 11:08:46",
+                "statusId": 1,
+                "statusName": "Active",
+                "entityId": null
+            }
+        }
+    }
+]

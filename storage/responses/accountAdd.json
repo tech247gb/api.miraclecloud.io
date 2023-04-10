@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "data": {
+                "type": "account",
+                "id": 345,
+                "attributes": {
+                    "accountId": 345
+                }
+            }
+        }
+    ]
+}

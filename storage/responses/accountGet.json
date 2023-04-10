@@ -1,0 +1,28 @@
+{
+    "data": {
+        "type": "account",
+        "id": 1,
+        "attributes": {
+            "accountID": 1,
+            "accountNumber": "689106383337",
+            "accountName": "\tiZerto Test\t",
+            "expirationDate": null,
+            "creationDate": "0000-00-00 00:00:00",
+            "clientID": 1,
+            "vendorID": 2,
+            "subBusinessUnitID": null,
+            "enrollmentID": null,
+            "statusID": 5,
+            "clientSecret": "=bu=5i5Q+S+KbLzOhrqcBbO5QpWWidg2",
+            "tenant": "1367a40b-ac84-4ded-bdb1-d58317619327",
+            "businessUnitID": 1,
+            "bucketName": "1",
+            "apiVersion": "2019-01-01",
+            "lastCostDate": "2020-02-13 00:00:00",
+            "clientIdKey": "2cc15651-b5e1-480d-a0e1-cd9be5859ff0",
+            "aRN": "11",
+            "subscriptionID": "e62741cc-d8bd-4fe9-b543-b88593fe0d76",
+            "usageDetailsPath": null
+        }
+    }
+}

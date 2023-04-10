@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "type": "subUnit",
+            "id": 1,
+            "attributes": {
+                "subBUId": 1,
+                "bUId": 17,
+                "subBUName": "BI"
+            }
+        }
+    ]
+}

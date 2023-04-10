@@ -1,0 +1,32 @@
+[
+    {
+        "data": {
+            "type": "tag",
+            "attributes": {
+                "id": 82,
+                "key": "Priavte IP",
+                "value": "10.0.167.29"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "tag",
+            "attributes": {
+                "id": 83,
+                "key": "Public IP",
+                "value": ""
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "tag",
+            "attributes": {
+                "id": 84,
+                "key": "DNS Name",
+                "value": ""
+            }
+        }
+    }
+]

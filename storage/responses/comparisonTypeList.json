@@ -1,0 +1,20 @@
+[
+    {
+        "data": {
+            "type": "comparisonType",
+            "attributes": {
+                "id": 1,
+                "name": "Monthly Average"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "comparisonType",
+            "attributes": {
+                "id": 2,
+                "name": "Weekly Average"
+            }
+        }
+    }
+]

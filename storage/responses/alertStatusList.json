@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "data": {
+                "type": "alertStatus",
+                "attributes": {
+                    "alertStatusId": 6,
+                    "statusName": "Open"
+                }
+            }
+        },
+        {
+            "data": {
+                "type": "alertStatus",
+                "attributes": {
+                    "alertStatusId": 7,
+                    "statusName": "Closed"
+                }
+            }
+        },
+        {
+            "data": {
+                "type": "alertStatus",
+                "attributes": {
+                    "alertStatusId": 8,
+                    "statusName": "Rejected"
+                }
+            }
+        },
+        {
+            "data": {
+                "type": "alertStatus",
+                "attributes": {
+                    "alertStatusId": 9,
+                    "statusName": "Handled"
+                }
+            }
+        }
+    ]
+}

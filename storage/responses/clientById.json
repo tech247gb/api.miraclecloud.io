@@ -1,0 +1,11 @@
+{
+    "data": {
+        "type": "client",
+        "id": 2,
+        "attributes": {
+            "clientid": 2,
+            "clientname": "Gil Rabinovitz",
+            "joiningdate": "2019-11-25 00:00:00"
+        }
+    }
+}

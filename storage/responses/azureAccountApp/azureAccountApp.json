@@ -1,0 +1,12 @@
+{
+    "data": {
+        "type": "azureAccountApp",
+        "id": 235,
+        "attributes": {
+            "accountId": 235,
+            "accountName": "Ceragon IT External - CSP",
+            "accountNumber": "71sdsaf1-1c03-4799-87aa-1asfasdfasdf",
+            "assigned": 1
+        }
+    }
+}

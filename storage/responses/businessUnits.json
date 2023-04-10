@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "type": "unit",
+            "id": 12,
+            "attributes": {
+                "clientid": 3,
+                "buname": "BI"
+            }
+        },
+        {
+            "type": "unit",
+            "id": 16,
+            "attributes": {
+                "clientid": 3,
+                "buname": "External"
+            }
+        },
+        {
+            "type": "unit",
+            "id": 17,
+            "attributes": {
+                "clientid": 3,
+                "buname": "Networking"
+            }
+        },
+        {
+            "type": "unit",
+            "id": 20,
+            "attributes": {
+                "clientid": 3,
+                "buname": "Production"
+            }
+        }
+    ]
+}

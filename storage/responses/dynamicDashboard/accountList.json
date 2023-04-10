@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "type": "account",
+            "id": 230,
+            "attributes": {
+                "name": "Nice"
+            }
+        },
+        {
+            "type": "account",
+            "id": 240,
+            "attributes": {
+                "name": "Ceragon"
+            }
+        },
+        {
+            "type": "account",
+            "id": 241,
+            "attributes": {
+                "name": "Ceragon PTU"
+            }
+        },
+        {
+            "type": "account",
+            "id": 340,
+            "attributes": {
+                "name": "Haon"
+            }
+        },
+        {
+            "type": "account",
+            "id": 342,
+            "attributes": {
+                "name": "Haon AWS"
+            }
+        }
+    ]
+}

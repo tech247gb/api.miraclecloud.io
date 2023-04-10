@@ -1,0 +1,38 @@
+[
+    {
+        "data": {
+            "type": "product",
+            "attributes": {
+                "id": 1,
+                "name": "Compute"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "product",
+            "attributes": {
+                "id": 2,
+                "name": "All"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "product",
+            "attributes": {
+                "id": 3,
+                "name": "Database"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "product",
+            "attributes": {
+                "id": 4,
+                "name": "Storage"
+            }
+        }
+    }
+]

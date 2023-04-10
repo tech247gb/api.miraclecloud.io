@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "type": "client",
+            "id": 1,
+            "attributes": {
+                "clientid": 1,
+                "clientname": "Zerto",
+                "joiningdate": "2019-12-01 00:00:00",
+                "active": 1
+            }
+        },
+        {
+            "type": "client",
+            "id": 2,
+            "attributes": {
+                "clientid": 2,
+                "clientname": "Gil Rabinovitz",
+                "joiningdate": "2019-11-25 00:00:00",
+                "active": 1
+            }
+        },
+        {
+            "type": "client",
+            "id": 3,
+            "attributes": {
+                "clientid": 3,
+                "clientname": "Ceragon",
+                "joiningdate": "2019-12-01 00:00:00",
+                "active": 1
+            }
+        }
+    ]
+}

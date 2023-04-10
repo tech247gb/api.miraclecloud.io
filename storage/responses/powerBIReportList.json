@@ -1,0 +1,137 @@
+[
+    {
+        "data": {
+            "type": "report",
+            "attributes": {
+                "title": "Main",
+                "type": "Main",
+                "group_id": "43943655-e0d1-4e26-9eef-59dba3b6e505",
+                "report_id": "3f7fd292-f01b-4255-a863-3c81068bf58d",
+                "main": 1,
+                "dashboardID": null,
+                "dashboardType": "PowerBI",
+                "filter": "TamarDev_x0020_Clients%2FClientID%20eq%2062"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "report",
+            "attributes": {
+                "title": "Cost management",
+                "type": "Finance",
+                "group_id": "43943655-e0d1-4e26-9eef-59dba3b6e505",
+                "report_id": "f779d462-5937-49f3-bcc7-d4c57611eb6a",
+                "main": 0,
+                "dashboardID": null,
+                "dashboardType": "PowerBI",
+                "filter": "TamarDev_x0020_Clients%2FClientID%20eq%2062"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "report",
+            "attributes": {
+                "title": "Accounts Details",
+                "type": "Finance",
+                "group_id": "43943655-e0d1-4e26-9eef-59dba3b6e505",
+                "report_id": "bb159946-7c1e-47aa-8769-e5caac20ed53",
+                "main": 0,
+                "dashboardID": null,
+                "dashboardType": "PowerBI",
+                "filter": "TamarDev_x0020_Clients%2FClientID%20eq%2062"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "report",
+            "attributes": {
+                "title": "Pricing Term",
+                "type": "Operations",
+                "group_id": "43943655-e0d1-4e26-9eef-59dba3b6e505",
+                "report_id": "fde59be6-e8ce-416e-a4d5-f43efc162e63",
+                "main": 0,
+                "dashboardID": null,
+                "dashboardType": "PowerBI",
+                "filter": "TamarDev_x0020_Clients%2FClientID%20eq%2062"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "report",
+            "attributes": {
+                "title": "Costs explorer (beta)",
+                "type": "Operations",
+                "group_id": null,
+                "report_id": null,
+                "main": 0,
+                "dashboardID": "Dashboard2",
+                "dashboardType": "Angular",
+                "filter": null
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "report",
+            "attributes": {
+                "title": "Idle Resources",
+                "type": "CostOptimization",
+                "group_id": "43943655-e0d1-4e26-9eef-59dba3b6e505",
+                "report_id": "955d7cde-f4b6-4b37-a2a1-ef419af73ad1",
+                "main": 0,
+                "dashboardID": null,
+                "dashboardType": "PowerBI",
+                "filter": "TamarDev_x0020_Clients%2FClientID%20eq%2062"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "report",
+            "attributes": {
+                "title": "Snapshots breakdpon",
+                "type": "CostOptimization",
+                "group_id": "43943655-e0d1-4e26-9eef-59dba3b6e505",
+                "report_id": "4867f83b-a430-47e5-b81b-7e51af29b8c4",
+                "main": 0,
+                "dashboardID": null,
+                "dashboardType": "PowerBI",
+                "filter": "TamarDev_x0020_Clients%2FClientID%20eq%2062"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "report",
+            "attributes": {
+                "title": "Ec2 Rightsizing",
+                "type": "CostOptimization",
+                "group_id": "43943655-e0d1-4e26-9eef-59dba3b6e505",
+                "report_id": "883661f5-f846-4131-bb1a-22ee24d3171f",
+                "main": 0,
+                "dashboardID": null,
+                "dashboardType": "PowerBI",
+                "filter": "TamarDev_x0020_Clients%2FClientID%20eq%2062"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "report",
+            "attributes": {
+                "title": "RI Calculator",
+                "type": "CostOptimization",
+                "group_id": "43943655-e0d1-4e26-9eef-59dba3b6e505",
+                "report_id": "20dec7c1-52c4-461b-9eed-65b927b48b41",
+                "main": 0,
+                "dashboardID": null,
+                "dashboardType": "PowerBI",
+                "filter": "TamarDev_x0020_Clients%2FClientID%20eq%2062"
+            }
+        }
+    }
+]

@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "type": "alertService",
+            "attributes": {
+                "entityTypeId": 1,
+                "entityTypeName": "VM"
+            }
+        },
+        {
+            "type": "alertService",
+            "attributes": {
+                "entityTypeId": 19,
+                "entityTypeName": "Ec2"
+            }
+        },
+        {
+            "type": "alertService",
+            "attributes": {
+                "entityTypeId": 23,
+                "entityTypeName": "Disk"
+            }
+        },
+        {
+            "type": "alertService",
+            "attributes": {
+                "entityTypeId": 24,
+                "entityTypeName": "Volume"
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "data": {
+            "type": "owner",
+            "attributes": {
+                "id": 17,
+                "fullName": "Achi Solomon",
+                "email": "achis@checkpoint.com"
+            }
+        }
+    },
+    {
+        "data": {
+            "type": "owner",
+            "attributes": {
+                "id": 18,
+                "fullName": "Adi Sivan",
+                "email": "adis@checkpoint.com"
+            }
+        }
+    }
+]

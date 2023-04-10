@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "type": "account",
+            "id": 234,
+            "attributes": {
+                "accountID": 234,
+                "accountNumber": "74d47527-aee3-4eda-b2de-d5dac408511b",
+                "accountName": "Ceragon IT BI - CSP",
+                "expirationDate": null,
+                "creationDate": null,
+                "clientID": 3,
+                "vendorID": 1,
+                "subBusinessUnitID": null,
+                "enrollmentID": null,
+                "statusID": 1,
+                "clientSecret": "QI=[DCXZR:Vv5wLFw.jCAOq89AZ2az:v",
+                "tenant": "47a604a2-c1e7-44eb-9355-115ca1a94aef",
+                "businessUnitID": 12,
+                "bucketName": null,
+                "apiVersion": "2019-10-01",
+                "lastCostDate": "2020-02-13 00:00:00",
+                "clientIdKey": "a10d4a52-ce40-4ed8-9dd3-589b984908f0",
+                "aRN": null,
+                "subscriptionID": "74d47527-aee3-4eda-b2de-d5dac408511b",
+                "usageDetailsPath": null
+            }
+        },
+        {
+            "type": "account",
+            "id": 235,
+            "attributes": {
+                "accountID": 235,
+                "accountNumber": "71cce541-1c03-4799-87aa-13554512976a",
+                "accountName": "Ceragon IT External - CSP",
+                "expirationDate": null,
+                "creationDate": null,
+                "clientID": 3,
+                "vendorID": 1,
+                "subBusinessUnitID": null,
+                "enrollmentID": null,
+                "statusID": 1,
+                "clientSecret": "QI=[DCXZR:Vv5wLFw.jCAOq89AZ2az:v",
+                "tenant": "47a604a2-c1e7-44eb-9355-115ca1a94aef",
+                "businessUnitID": 16,
+                "bucketName": null,
+                "apiVersion": "2019-10-01",
+                "lastCostDate": "2020-02-13 00:00:00",
+                "clientIdKey": "a10d4a52-ce40-4ed8-9dd3-589b984908f0",
+                "aRN": null,
+                "subscriptionID": "71cce541-1c03-4799-87aa-13554512976a",
+                "usageDetailsPath": null
+            }
+        }
+    ]
+}

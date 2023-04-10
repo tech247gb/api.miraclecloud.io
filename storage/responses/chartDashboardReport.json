@@ -1,0 +1,38 @@
+{
+    "data": {
+        "January": {
+            "type": "chart",
+            "attributes": {
+                "Azure": {
+                    "sum": 13439.43,
+                    "project": 0,
+                    "budget": 21250,
+                    "currentMonth": "last",
+                    "year": 2020,
+                    "monthNumber": 1,
+                    "currencyId": 1,
+                    "bUId": 12,
+                    "vendorId": 1,
+                    "month": "January"
+                }
+            }
+        },
+        "February": {
+            "type": "chart",
+            "attributes": {
+                "Azure": {
+                    "sum": 4759.18,
+                    "project": 0,
+                    "budget": 21350,
+                    "currentMonth": "current",
+                    "year": 2020,
+                    "monthNumber": 2,
+                    "currencyId": 1,
+                    "bUId": 22,
+                    "vendorId": 1,
+                    "month": "February"
+                }
+            }
+        }
+    }
+}

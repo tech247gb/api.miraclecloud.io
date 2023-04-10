@@ -1,0 +1,9 @@
+{
+    "type": "string",
+    "errors": {
+        "fieldName": [
+            "The field validation error message"
+        ]
+    },
+    "code": 4223
+}
