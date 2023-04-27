@@ -20,6 +20,8 @@ interface CustomExceptionCodeInterface
     const ALERT_UNSUSPEND_EXCEPTION = 5011;
     const ALERT_CREATE_EXCEPTION = 5012;
     const ALERT_DELETE_EXCEPTION = 5013;
+    const NOTIFICATION_CREATE_EXCEPTION = 5014;
+    const NOTIFICATION_DELETE_EXCEPTION = 5015;
 
     // Tag
     const TAG_SHOW_EXCEPTION = 5020;

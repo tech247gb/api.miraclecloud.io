@@ -114,7 +114,21 @@ $router->options('power-bi/embed-token/{report_id}/{group_id}', function () {
 $router->options('power-bi/reports', function () {
     return response('', 200);
 });
-
+$router->options('/notifications', function () {
+    return response('', 200);
+});
+$router->options('/demo', function () {
+    return response('', 200);
+});
+$router->options('/notifications/{UserID:\d+}', function () {
+    return response('', 200);
+});
+$router->options('notifications/{UserID:\d+}', function () {
+    return response('', 200);
+});
+$router->options('notifications/update', function () {
+    return response('', 200);
+});
 $router->options('/alerts', function () {
     return response('', 200);
 });
@@ -203,6 +217,8 @@ $router->group(['middleware' => 'auth.bearer'], function () use ($router) {
 $router->group(['middleware' => 'auth.bearer'], function () use ($router) {
     $router->post('clientreport', ['uses' => 'DashboardController@grid']);
     $router->get('year-list', ['uses' => 'DashboardController@year']);
+    $router->get('demo', ['uses' => 'DashboardController@year']);
+
     $router->post('clientreportchart', ['uses' => 'DashboardController@chart']);
     $router->post('dynamic-chart', ['uses' => 'DashboardController@dynamicChart']);
     $router->post('dashboard-table', ['uses' => 'DashboardController@dashboardTable']);
@@ -245,6 +261,13 @@ $router->group(['middleware' => 'auth.bearer'], function () use ($router) {
         $router->get('/embed-token/{report_id}/{group_id}', ['uses' => 'PowerBIController@getReportEmbedToken']);
         $router->get('/reports', ['uses' => 'PowerBIController@reportList']);
     });
+    $router->group(['prefix' => 'notifications'], function () use ($router) {
+        $router->get('', ['uses' => 'NotificationController@all']);
+        $router->get('{UserID:\d+}', ['uses' => 'NotificationController@ntfList']);
+        $router->put('update', ['uses' => 'NotificationController@update']);
+        $router->post('', ['uses' => 'NotificationController@create']);
+        $router->delete('/{id:\d+}', ['uses' => 'NotificationController@delete']);
+    });
 
     $router->group(['prefix' => 'alerts'], function () use ($router) {
         $router->get('', ['uses' => 'AlertController@all']);
@@ -256,6 +279,7 @@ $router->group(['middleware' => 'auth.bearer'], function () use ($router) {
         $router->delete('/{id:\d+}', ['uses' => 'AlertController@delete']);
         $router->get('/types-descriptions', ['uses' => 'AlertController@showTypesDescriptions']);
     });
+    
 
     $router->group(['prefix' => 'alert-types'], function () use ($router) {
         $router->get('', ['uses' => 'AlertTypeController@all']);

@@ -482,6 +482,8 @@ class DbModel
     {
         return DB::select('call SP_Alerts_Create(?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', $params);
     }
+   
+    
 
     /**
      * @return Collection
@@ -644,4 +646,24 @@ class DbModel
     {
         return DB::select('call SP_Set_AppRegistration(?, ?, ?, ?, ?, ?);', $params);
     }
+    public function getNotificationList(array $params)
+    {
+        return collect(
+            DB::select('call SP_NTF_GetNotifications(?, ?);', $params)
+        );
+    }
+    public function createNotification(array $params)
+    {
+        return DB::select('call SP_NTF_Create(?, ?, ?, ?, ?, ?, ?, ?)', $params);
+    }
+    public function deleteNotification(array $params): array
+    {
+        return DB::select('call SP_NTF_DeletNotification(?)', $params);
+    }
+    public function updateNotification(array $params): array
+    {
+        return DB::select('call SP_NTF_UpdateSeen(?)', $params);
+    }
+
+
 }

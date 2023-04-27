@@ -3,6 +3,7 @@
 use App\Console\Kernel;
 use App\Exceptions\Handler;
 use App\Providers\AlertServiceProvider;
+use App\Providers\NotificationServiceProvider;
 use App\Providers\AlertTypeServiceProvider;
 use App\Providers\AuthServiceProvider;
 use App\Providers\BusinessUnitProvider;
@@ -101,6 +102,7 @@ $app->register(SubBusinessUnitServiceProvider::class);
 $app->register(ServiceProvider::class);
 $app->register(VendorServiceProvider::class);
 $app->register(AlertServiceProvider::class);
+$app->register(NotificationServiceProvider::class);
 $app->register(AlertTypeServiceProvider::class);
 $app->register(OwnerServiceProvider::class);
 $app->register(ComparisonTypeServiceProvider::class);
